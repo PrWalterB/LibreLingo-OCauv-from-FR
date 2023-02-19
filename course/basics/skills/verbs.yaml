@@ -1,54 +1,39 @@
 Skill:
-  Name: Verbs
+  Name: Verbes
   Id: 9
 
 New words: []
-  
+
 Phrases:
-  - Phrase: Yo soy un gato
-    Alternative versions:
-      - Soy un gato
-    Translation: I am a cat
-    Also accepted:
-      - I'm a cat
+  - Phrase: Sèi un chat
+    Translation: Je suis un chat
 
-  - Phrase: Tú eres grande
-    Alternative versions:
-      - Eres grande
-    Translation: You are big
-    Also accepted:
-      - You're big
+  - Phrase: Sès grand
+    Translation: Tu es grand
 
-  - Phrase: El caballo es pequeño
-    Translation: The horse is small
+  - Phrase: L'ega z-es petita
+    Translation: Le cheval est petit
 
-  - Phrase: Yo como pan
-    Translation: I eat bread
+  - Phrase: Manje dau pan
+    Translation: Je mange du pain
 
-  - Phrase: Tú comes pasta
-    Translation: You eat pasta
+  - Phrase: Manjas de las pastas
+    Translation: Tu manges des pâtes
 
-  - Phrase: Ella come pizza
-    Translation: She eats pizza
+  - Phrase: Manja una pizza
+    Translation: Elle mange une pizza
 
-  - Phrase: Él come pan
-    Translation: He eats bread
+  - Phrase: Manja dau pan
+    Translation: Il mange du pain
 
-  - Phrase: Yo bebo cerveza
-    Translation: I drink beer
+  - Phrase: Beve de la cervèsa
+    Translation: Je bois de la bière
 
-  - Phrase: Tú bebes leche
-    Alternative versions:
-      - Bebes leche
-    Translation: You drink milk
+  - Phrase: Beves dau lait
+    Translation: Tu bois du lait
 
-  - Phrase: Maria bebe cerveza
-    Translation: Maria drinks beer
+  - Phrase: Mariona beu dau vin
+    Translation: Marie boit du vin
 
-  - Phrase: El caballo bebe agua
-    Translation: The horse drinks water
-
-
-
-
-
+  - Phrase: L'ega beu de l'aiga
+    Translation: Le cheval boit de l'eau

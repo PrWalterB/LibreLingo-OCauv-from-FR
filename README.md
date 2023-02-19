@@ -1,3 +1,3 @@
-# LibreLingo-ES-from-EN
+# LibreLingo-OCauv-from-FR
 
-Spanish course for English speakers
+Occitan auvergnat course for French speakers

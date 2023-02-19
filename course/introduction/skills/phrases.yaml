@@ -5,113 +5,70 @@ Skill:
 New words: []
 
 Phrases:
-  - Phrase: ¡Buenos días!
-    Translation: Good morning!
-    Alternative translations:
-      - Good day!
+  - Phrase: Bonjorn!
+    Translation: Bonjour!
 
-  - Phrase: Buenos días, yo soy Cecilia.
+  - Phrase: Bonjorn, sèi Cecilia
+    Translation: Bonjour, je suis Cécile
+
+  - Phrase: Me sònan Joan
     Alternative versions:
-      - Buenos días, soy Cecilia.
-    Translation: Good morning, I am Cecilia.
+      - Me \'pèlan Joan
+    Translation: Je m'apelle Jean
 
-  - Phrase: Yo me llamo José
-    Alternative versions:
-      - Me llamo José
-    Translation: My name is José
-    Alternative translations:
-      - I am called José
-      - I'm called José
+  - Phrase: Coma quo vai?
+    Translation: Comment ça va?
 
-  - Phrase: ¿Qué tal?
-    Translation: How are you?
+  - Phrase: De que se passa?
+    Translation: Qu'est ce qu'il se passe?
 
-  - Phrase: ¿Qué pasa?
-    Translation: What's up?
+  - Phrase: Adieu!
+    Translation: Salut!
 
-  - Phrase: Mucho gusto
-    Translation: Nice to meet you
-    Alternative translations:
-      - Nice meeting you
+  - Phrase: A totara!
+    Translation: À toute à l'heure!
 
-  - Phrase: ¡Hasta luego!
-    Translation: See you later!
-    Alternative translations:
-      - See you soon!
+  - Phrase: Cossí te sònan?
+    Translation: Comment tu t'apelles?
 
-  - Phrase: ¿Cómo te llamas?
-    Translation: What's your name?
-    Alternative translations:
-      - What is your name?
+  - Phrase: Bon \'près-miejorn!
+    Translation: Bon après-midi!
 
-  - Phrase: ¡Buenas tardes!
-    Translation: Good afternoon!
-    Alternative translations:
-      - Good evening!
-
-  - Phrase: ¡Buenas noches, José!
-    Translation: Good night, José!
+  - Phrase: Bona nuèit, Joan!
+    Translation: Bonne nuit, Jean!
 
 Mini-dictionary:
-  English:
-    - morning:
-      - mañana
-    - my:
-      - mi
-    - name: nombre
-    - what's:
-      - qué
-      - que es
-    - up:
-      - arriba
-      - para arriba
-      - hacia arriba
-      - hasta
-    - nice:
-      - bonito
-      - bonita
-      - agradable
-      - bien
-      - bueno
-    - meet:
-      - conocer
-      - encontrarse
-    - see:
-      - ver
-      - ve
-      - veo
-      - ven
-    - later:
-      - más tarde
-      - después
-      - luego
-    - afternoon: tarde
-    - night: noche
+  Français:
+    - matin:
+      - matin
+    - mon:
+      - mon
+    - nom: nom
+    - qu'est ce que:
+      - de que
+    - rencontrer:
+      - rencontrar
+    - voir:
+      - veire
+    - plus tard:
+      - totara
+      - mai tard
+    - après-midi: \'près-miejorn
+    - nuit: nuèit
 
-  Spanish:
-    - buenos: good
-    - días: days
-    - llamo: I call
-    - qué: what
-    - tal: such
-    - pasa:
-      - happens
-      - passes
-    - gusto:
-      - taste
-      - liking
-      - pleasure
-    - hasta: until
-    - luego:
-      - soon
-      - then
-      - later
-    - cómo:
-      - how
-      - Sorry? What?
-    - te: you
-    - llamas: you call
-    - buenas: good
-    - tardes: afternoons
-    - noches: nights
-
+  Occitan:
+    - bon: bon
+    - jorns: jours
+    - sonar: apeller
+    - que: quoi
+    - passa:
+      - se passe
+    - m'agrada:
+      - me plaît
+    - cossí:
+      - comment (?)
+    - -te: -toi
+    - sònas: tu apelles
+    - bona: bonne
+    - \'près-miejorn: après-midi
+    - nuèit: nuit

@@ -3,66 +3,29 @@ Skill:
   Id: 12
 
 New words:
-  - Word: médico
-    Synonyms:
-      - médica
-    Translation: doctor
+  - Word: medecin
+    Translation: médecin
     Images:
       - doctor1
       - doctor2
       - doctor3
 
-  - Word: bombera
-    Synonyms:
-      - bombero
-    Translation: firefighter
+  - Word: pompèir·a
+    Translation: pompi·er·ère
     Images:
       - firefighter1
       - firefighter2
       - firefighter3
 
-  - Word: bombero
-    Synonyms:
-      - bombera
-    Translation: firefighter
-    Images:
-      - firefighter1
-      - firefighter2
-      - firefighter3
-
-
-  - Word: granjera
-    Synonyms:
-      - granjero
-    Translation: farmer
+  - Word: boriair·e·a
+    Translation: fermier·ère
     Images:
       - farmer1
       - farmer2
       - farmer3
 
-
-  - Word: granjero
-    Synonyms:
-      - granjera
-    Translation: farmer
-    Images:
-      - farmer1
-      - farmer2
-      - farmer3
-  
-  - Word: una médica
-    Synonyms:
-      - un médico
-    Translation: a doctor
-    Images:
-      - doctor1
-      - doctor2
-      - doctor3
-
-  - Word: granjeras
-    Synonyms:
-      - granjeros
-    Translation: farmers
+  - Word: boriair·e·a·s
+    Translation: fermi·er·ère·s
     Images:
       - farmer1
       - farmer2
@@ -70,75 +33,56 @@ New words:
 
 
 Phrases:
-  - Phrase: La médica bebe agua
-    Alternative versions:
-      - La médica bebe agua
-    Translation: The doctor drinks water
+  - Phrase: La medecin beu de l'aiga
+    Translation: La médecin boit de l'eau
 
-  - Phrase: El camarero trabaja
-    Alternative versions:
-      - La camarera trabaja
-    Translation: The waiter works
+  - Phrase: Le servidor trabalha
+    Translation: Le serveur travaille
 
-  - Phrase: Las bomberas llegan
-    Alternative versions:
-      - Los bomberos llegan
-    Translation: The firefighters arrive
+  - Phrase: Las pompèiras arriban
+    Translation: Les pompières arrivent
 
-  - Phrase: El granjero ve los animales
-    Alternative versions:
-      - La  granjera ve los animales
-    Translation: The farmer sees the animals
+  - Phrase: Le boriaire espia las bèstias
+    Translation: Le fermier regarde les animaux
 
-  - Phrase: Los enfermeros viven aquí
-    Alternative versions:
-      - Las enfermeras viven aquí
-    Translation: The nurses live here
+  - Phrase: Los infirmèirs demòran aquí
+    Translation: Les infirmiers vivent ici
 
-  - Phrase: El cantante canta bien
-    Alternative versions:
-      - El cantor canta bien
-      - La cantora canta bien
-    Translation: The singer sings well
+  - Phrase: Le chantaire chanta ben
+    Translation: le chanteur chante bien
 
 Mini-dictionary:
-  Spanish:
-    - médica: doctor
-    - camarero: waiter
-    - trabaja: works
-    - bomberas: firefighters
-    - llegan: arrive
-    - ve: sees
-    - animales: animals
-    - enfermeros: nurses
-    - viven: live
-    - aquí: here
-    - cantante: singer
-    - canta: sings
-    - bien: well
+  Occitan:
+    - medecin: médecin
+    - servidor: serveur
+    - trabalha: il travaille
+    - pompèiras: pompières
+    - arribar: arriver
+    - espia: il regarde (fixe)
+    - bèstias: animaux
+    - infirmèirs: infirmiers
+    - demorar: vivre (lieu)
+    - aquí: ici
+    - chantaire: chanteur
+    - chanta: il chante
+    - ben: bien
 
-  English:
-    - waiter: camarero
-    - works:
-      - trabaja
-      - funciona
-    - arrive:
-      - llegan
-      - llego
-      - llegas
-    - firefighters:
-      - bomberos
-      - bomberas
-    - sees: ve
-    - animals: animales
-    - nurses:
-      - enfermeros
-      - enfermeras
-    - live:
-        - vive
-        - viven
-        - vivo
-    - here: aquí
-    - singer: cantante
-    - sings: canta
-    - well: bien
+  Français:
+    - serveuse: servidora
+    - travailler:
+      - trabalhar
+      - obrar
+    - il arrive:
+      - arriba
+    - pompiers:
+      - pompèirs
+    - regarder (fixe): espiar
+    - animaux: bèstias
+    - infirmières:
+      - infirmèiras
+    - vivre (lieu):
+        - demorar
+    - ici: aquí
+    - chanteuse: chantaira
+    - chanter: chantar
+    - bien: ben

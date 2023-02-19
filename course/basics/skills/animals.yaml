@@ -1,141 +1,138 @@
 Skill:
-  Name: Animals
+  Name: Animaux
   Id: 2
   Thumbnails:
     - dog1
     - lion3
     - cat3
-  
+
 New words:
-  - Word: perro
-    Synonyms:
-      - can
-    Translation: dog
-    Also accepted:
-      - hound
+  - Word: chin
+    Translation: chien
     Images:
       - dog1
       - dog2
       - dog3
 
-  - Word: gato
-    Translation: cat
+  - Word: chat
+    Translation: chat
     Images:
       - cat1
       - cat2
       - cat3
 
-  - Word: oso
-    Translation: bear
+  - Word: orse
+    Translation: ours
     Images:
       - bear1
       - bear2
       - bear1
 
-  - Word: león
-    Translation: lion
+  - Word: vacha
+    Translation: vache
     Images:
-      - lion1
-      - lion2
-      - lion3
+      - cow1
+      - cow2
+      - cow3
 
-  - Word: pato
-    Translation: duck
+  - Word: canard
+    Translation: canard
     Images:
       - duck1
       - duck2
       - duck3
 
-  - Word: caballo
-    Translation: horse
+  - Word: ega
+    Translation: cheval
     Images:
       - horse1
       - horse2
       - horse3
 
-  - Word: el gato
-    Translation: the cat
+  - Word: le chat
+    Translation: le chat
     Images:
       - cat1
       - cat2
       - cat3
 
-  - Word: un oso
-    Translation: a bear
+  - Word: un orse
+    Translation: un ours
     Images:
       - bear1
       - bear2
       - bear1
 
-  - Word: un león
-    Translation: a lion
+  - Word: una vacha
+    Translation: une vache
     Images:
-      - lion1
-      - lion2
-      - lion3
+      - cow1
+      - cow2
+      - cow3
 
-  - Word: el pato
-    Translation: the duck
+  - Word: le canard
+    Translation: le canard
     Images:
       - duck1
       - duck2
       - duck3
 
-  - Word: un caballo
-    Translation: a horse
+  - Word: una ega
+    Translation: un cheval
     Images:
       - horse1
       - horse2
       - horse3
 
-  - Word: el perro
-    Synonyms:
-      - el can
-    Translation: the dog
-    Also accepted:
-      - the hound
+  - Word: le chin
+    Translation: le chien
     Images:
       - dog1
       - dog2
       - dog3
 
 Phrases:
-  - Phrase: Es un caballo
-    Translation: It's a horse
+  - Phrase: Quo-es una ega
+    Translation: C'est un cheval
 
-  - Phrase: Max es un perro
+  - Phrase: Bernard z-es un chin
     Alternative versions:
-      - Max es un can
-    Translation: Max is a dog
+      - Bernard es un chin
+    Translation: Bernard est un chien
 
-  - Phrase: Un pato y un caballo
-    Translation: A duck and a horse
+  - Phrase: Un canard e una ega
+    Translation: Un chien et un cheval
 
 Mini-dictionary:
-  Spanish:
-    - un: a/an (masc.)
-    - es: is
-    - Max: Max (name)
-    - y: and
-    - buen: good
-    - provecho: profit
+  Occitan:
+    - un: un
+    - una: une
+    - es/z-es: est
+    - Bernard: Bernard (nom)
+    - e: et
+    - bon·a: bon·ne
+    - profeit: profit
 
 
-  English:
-    - the:
+  Français:
+    - le:
+        - le
+    - la:
         - la
-        - el
-    - it's: es
-    - a:
+    - c'est: quo-es
+    - un:
       - un
+    - une:
       - una
-    - Max: Max (name)
-    - is: es
-    - and: y
-    - enjoy: disfruta
-    - your:
-      - tu
-      - su
-    - meal:
-      - comida
-    - bread: pan
+    - Bernard: Bernard (nom)
+    - est:
+      - z-es
+      - es
+    - et: e
+    - ton:
+      - ton
+    - ta:
+      - ta
+    - plat:
+      - manjar
+    - pain: pan
